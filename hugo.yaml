@@ -1,0 +1,31 @@
+baseURL: "https://yourusername.github.io/"
+title: "Arycatur.my.id"
+theme: PaperMod
+
+params:
+  # Profile settings
+  profileMode:
+    enabled: true
+    title: "ARY CATUR WICAKSONO"
+    subtitle: "Software Engineer | PHP, Laravel, Ruby"
+    imageUrl: "images/avatar.png"
+    # imageTitle: "Profile"
+  defaultTheme: auto
+  socialIcons: 
+    - name: "github"
+      url: "https://github.com/1m-arthur"
+    - name: "gitlab"
+      url: "https://gitlab.com/1m-arthur"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/ary-catur-wicaksono"
+
+menu:
+  main:
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 90
+
+caches:
+  images:
+    dir: :cacheDir/images

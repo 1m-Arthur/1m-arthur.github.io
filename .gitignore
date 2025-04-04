@@ -1,0 +1,45 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# Local development files
+.hugo_build.lock
+
+# OS and editor files
+*.swp
+*~
+Thumbs.db
+.desktop.ini
+
+# Dependency directories
+/node_modules/
+/assets/node_modules/
+
+# Debug files
+debug.log
+
+# Environment files
+.env
+.env.local
+
+# IDE-specific files
+.idea/
+.vscode/
+*.code-workspace
+
+# Hugo module files (if not using themes as submodules)
+/go.mod
+/go.sum
+
+# Temporary files
+tmp/
+*.tmp
+
+# Ignore files in the root directory except config files
+!/config.*
+!/content/
+!/layouts/
+!/static/
+!/assets/
+!/themes/
+!/archetypes/
