@@ -1,5 +1,5 @@
 ---
-menu: projects
+menu: portfolio
 title: "Covid Monitoring Line Chatbot"
 tags: ["Ruby", "API", "Heroku", "Sinatra"]
 date: 2020-04-18

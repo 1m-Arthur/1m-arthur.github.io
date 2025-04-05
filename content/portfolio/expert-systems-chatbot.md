@@ -1,5 +1,5 @@
 ---
-menu: projects
+menu: portfolio
 title: "Expert System for diagnosing smokers diseases Line Chatbot"
 github: "https://github.com/1m-Arthur/Rails-SistemPakar"
 tags: ["Ruby", "API", "Heroku", "Ruby on Rails", "Webhook", "Postgresql"]
