@@ -19,7 +19,7 @@ weight: 20
 
 ### PT Robicom Cipta Solusindo
 
-**IT Programmer** | _Jul 2023 – Oct 2023_
+**IT Programmer** | _Jul 2017 – Oct 2017_
 
 - Built CodeIgniter 3 RESTful APIs.
 - Provided application/hardware support.
